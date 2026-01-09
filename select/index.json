@@ -1,104 +1,160 @@
 {
   "version": 1,
-  "base_track": "米津玄師  - 地球儀　Kenshi Yonezu - Spinning Globe",
+  "base_track": "地球儀 - Spinning Globe",
   "base_artist": "米津玄師",
-  "createdAt": "2025-12-10T11:23:25.892901Z",
+  "createdAt": "2026-01-09T07:48:05.371863Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
-      "artist": "Kenshi Yonezu",
+      "title": "地球儀",
+      "artist": "Aimer feat. Vaundy",
       "has_synced": true,
-      "path": "select/01_米津玄師_Kenshi_Yonezu_-_Lemon_Kenshi_Yonezu.lrc"
+      "path": "select/01_地球儀_Aimer_feat._Vaundy.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
-      "artist": "米津玄師",
+      "title": "地球儀",
+      "artist": "Aimer with Vaundy",
       "has_synced": true,
-      "path": "select/02_米津玄師_Kenshi_Yonezu_-_Lemon_米津玄師.lrc"
+      "path": "select/02_地球儀_Aimer_with_Vaundy.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "米津玄師  - orion , Kenshi Yonezu",
+      "title": "地球儀",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/03_米津玄師_-_orion_,_Kenshi_Yonezu_Kenshi_Yonezu.lrc"
+      "path": "select/03_地球儀_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "米津玄師  Kenshi Yonezu  - Lemon",
+      "title": "地球儀 - Spinning Globe",
       "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/04_米津玄師_Kenshi_Yonezu_-_Lemon_Kenshi_Yonezu.lrc"
+      "path": "select/04_地球儀_-_Spinning_Globe_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "DAOKO × 米津玄師『打上花火』MUSIC VIDEO",
-      "artist": "DAOKO",
+      "title": "地球儀",
+      "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/05_DAOKO_×_米津玄師『打上花火』MUSIC_VIDEO_DAOKO.lrc"
+      "path": "select/05_地球儀_米津玄師.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "米津玄師 MV「 灰色と青（ ＋菅田将暉 ）」 (feat. Masaki Suda)",
-      "artist": "Kenshi Yonezu",
+      "title": "地球儀",
+      "artist": "Aimer",
       "has_synced": true,
-      "path": "select/06_米津玄師_MV「_灰色と青(_+菅田将暉_)」_(feat._Masaki_Suda)_Kenshi_Yonezu.lrc"
+      "path": "select/06_地球儀_Aimer.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata/Kenshi Yonezu",
+      "title": "地球儀",
+      "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/07_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata_Kenshi_Yonezu.lrc"
+      "path": "select/07_地球儀_米津玄師.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata; Kenshi Yonezu",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "米津玄師",
       "has_synced": true,
-      "path": "select/08_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata;_Kenshi_Yonezu.lrc"
+      "path": "select/08_地球儀_-_Spinning_Globe_米津玄師.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師)",
-      "artist": "Yasutaka Nakata",
+      "title": "地球儀",
+      "artist": "Aimer, Vaundy",
       "has_synced": true,
-      "path": "select/09_NANIMONO_(feat._米津玄師)_Yasutaka_Nakata.lrc"
+      "path": "select/09_地球儀_Aimer,_Vaundy.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "NANIMONO (feat. 米津玄師) - Danny L Harle remix",
-      "artist": "Yasutaka Nakata",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/10_NANIMONO_(feat._米津玄師)_-_Danny_L_Harle_remix_Yasutaka_Nakata.lrc"
+      "path": "select/10_地球儀_-_Spinning_Globe_Kenshi_Yonezu.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "米津玄師/未知/米津玄師 - Lemon",
-      "artist": "米津玄師",
+      "title": "地球儀",
+      "artist": "Aimer,Vaundy",
       "has_synced": true,
-      "path": "select/11_米津玄師_未知_米津玄師_-_Lemon_米津玄師.lrc"
+      "path": "select/11_地球儀_Aimer,Vaundy.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Kenshi Yonezu (米津玄師) - Lemon ┃Cover by Raon Lee",
-      "artist": "Raon",
+      "title": "地球儀 - Spinning Globe - Chikyugi - Spinning Globe",
+      "artist": "Kenshi Yonezu",
       "has_synced": true,
-      "path": "select/12_Kenshi_Yonezu_(米津玄師)_-_Lemon_┃Cover_by_Raon_Lee_Raon.lrc"
+      "path": "select/12_地球儀_-_Spinning_Globe_-_Chikyugi_-_Spinning_Globe_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/13_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/14_地球儀_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": false,
+      "path": "select/15_地球儀_Yonezu,_Kenshi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/16_地球儀_-_Spinning_Globe_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe - Chikyugi - Spinning Globe",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/17_地球儀_-_Spinning_Globe_-_Chikyugi_-_Spinning_Globe_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "地球儀 - Spinning Globe -",
+      "artist": "Joe Hisaishi",
+      "has_synced": true,
+      "path": "select/18_地球儀_-_Spinning_Globe_-_Joe_Hisaishi.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "地球儀",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/19_地球儀_Kenshi_Yonezu.txt"
     },
     {
       "id": "petitlyrics_1",
